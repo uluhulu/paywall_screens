@@ -1,0 +1,70 @@
+{
+    "restore": "Restore",
+    "@helloWorld": {
+      "description": "AppBar Button"
+    },
+    "paywallHeadline": "Unlock all features",
+    "@paywallHeadline": {
+      "description": "Paywall first headline"
+    },
+    "paywallSubtitle": "Build your perfect morning routine",
+    "@paywallSubtitle": {
+      "description": "Paywall second title"
+    },
+    "fitness": "Fitness",
+    "@fitness": {
+      "description": ""
+    },
+    "visualization": "Visualization",
+    "@visualization": {
+      "description": ""
+    },
+    "meditations": "Meditations",
+    "@meditations": {
+      "description": ""
+    },
+    "reading": "Reading",
+    "@reading": {
+      "description": ""
+    },
+    "notes": "Notes",
+    "@notes": {
+      "description": ""
+    },
+    "affirmations": "Affirmations",
+    "@affirmations": {
+      "description": ""
+    },
+    "price": "2.91 USD ",
+    "@price": {
+      "description": ""
+    },
+    "month": " month ",
+    "@month": {
+      "description": ""
+    },
+    "priceInfo": "Billed every 12 months",
+    "@priceInfo": {
+      "description": ""
+    },
+    "securedWith": "Secured with Apple Store",
+    "@securedWith": {
+      "description": ""
+    },
+    "cancelAnytime": "Cancel anytime",
+    "@cancelAnytime": {
+      "description": ""
+    },
+    "paywallButton": "Let's go!",
+    "@paywallButton": {
+      "description": ""
+    },
+    "privacyPolicy": "Privacy Policy",
+    "@privacyPolicy": {
+      "description": ""
+    },
+    "termOfUse": "Term of Use",
+    "@termOfUse": {
+      "description": ""
+    }
+}
