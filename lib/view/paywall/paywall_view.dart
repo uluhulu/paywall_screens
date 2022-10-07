@@ -52,7 +52,7 @@ class _PaywallViewState extends State<PaywallView> {
           const  Blur(),
           Positioned(
             top: 11.h,
-            child: const PayWallBody(),
+            child:  PayWallBody(),
           ),
         ],
       ),

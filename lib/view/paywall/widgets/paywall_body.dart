@@ -9,7 +9,10 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
 class PayWallBody extends StatelessWidget {
-  const PayWallBody({Key? key}) : super(key: key);
+
+  const PayWallBody({
+    Key? key,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -18,7 +21,7 @@ class PayWallBody extends StatelessWidget {
         SizedBox(
           height: 2.4.h,
         ),
-        const PaywallBigTitle(),
+        PaywallBigTitle(),
         SizedBox(
           height: 0.6.h,
         ),

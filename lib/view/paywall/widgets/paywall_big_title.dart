@@ -8,7 +8,7 @@ class PaywallBigTitle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      width: 88.w,
+      width: 90.w,
       child: Text(
         AppLocalizations.of(context).paywallHeadline.toUpperCase(),
         style: Theme.of(context).textTheme.headlineLarge,
